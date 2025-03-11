@@ -1,0 +1,5 @@
+gradio==3.x
+pandas==2.x
+matplotlib==3.x
+ollama==0.1.x
+pydantic-ai==0.1.x
